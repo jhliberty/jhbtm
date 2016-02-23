@@ -3,20 +3,20 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'My Site',
+    siteName: 'John-Henry Beats The Machine',
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: "I'm John-Henry and I Beat The Machine",
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'om@johnhenrybeatsthemachine.com',
 
     // Name
-    siteAuthor: 'Your Name',
+    siteAuthor: 'John-Henry Liberty',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/jhliberty', newWindow: false},
       { name: 'About'}
     ],
 
@@ -45,7 +45,7 @@ $(function() {
     fadeSpeed: 300,
 
     // Site footer text
-    footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
+    footerText: 'Helping Humans Survive The Machines Since 1987',
 
     // Mode 'Github' for Github Pages, 'Server' for Self Hosted. Defaults
     // to Github
@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'yourusername',
-      repo: 'yourrepo'
+      username: 'jhliberty',
+      repo: 'jhliberty.github.io'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
