@@ -54,7 +54,7 @@ $(function() {
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
       username: 'jhliberty',
-      repo: 'jhliberty.github.io'
+      repo: 'jhbtm'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
